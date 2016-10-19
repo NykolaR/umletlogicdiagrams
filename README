@@ -1,0 +1,6 @@
+Custom elements for use in UMLet
+
+For use in creating circuit logic diagrams.
+Not everything lines up perfectly, nor are the elements perfect depictions of logic gates. They were created quickly, to be used quickly.
+
+Current gates included: AND, OR, and INVERSION BUBBLE
